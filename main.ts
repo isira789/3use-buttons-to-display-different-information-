@@ -101,4 +101,4 @@ input.onButtonPressed(Button.B, function () {
     music.stopAllSounds()
     soundExpression.happy.playUntilDone()
 })
-basic.showString("Find east and click \"A,B or A+B\"")
+basic.showString("Find east and click \"A or B\"")
